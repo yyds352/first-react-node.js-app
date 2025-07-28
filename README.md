@@ -1,2 +1,2 @@
 # first-react-node.js-app
-作为练习的react+node.js的App
+基于React+Node.js开发实战：入门到项目上线该教材第一章修改的一个项目。
